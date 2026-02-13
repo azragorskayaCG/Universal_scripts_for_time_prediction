@@ -1,9 +1,9 @@
 # General info
-This repository includes universal scripts for time series prediction using classical machine learning and deep learning, applicable to any problems.
+This repository contains a project with universal scripts for time series prediction using classical machine learning and deep learning, applicable to any problems.
 
 ## Structure of the project
 
-The project contains the following files:
+The "Project" folder contains the following files:
 - ``` main.py```: dashboard to change the input data depending on the task
 - ``` pred_ML.py ```: functions for different steps, assembled into a Class
 
