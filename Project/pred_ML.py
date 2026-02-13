@@ -4,7 +4,6 @@ from sklearn.metrics import r2_score, mean_squared_error
 import matplotlib.pyplot as plt
 from catboost import CatBoostRegressor
 import numpy as np
-import tensorflow as tf
 import random
 import os
 from matplotlib.dates import (
